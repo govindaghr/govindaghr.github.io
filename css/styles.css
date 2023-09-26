@@ -7080,6 +7080,11 @@ textarea.form-control-lg {
   gap: 3rem !important;
 }
 
+.justify-text {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .justify-content-start {
   justify-content: flex-start !important;
 }
